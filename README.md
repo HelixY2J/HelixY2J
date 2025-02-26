@@ -1,16 +1,18 @@
-## Hi there 👋
+## I don't build houses, but I love being an architect
 
-<!--
-**HelixY2J/HelixY2J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious about backend development, security, reverse engineering and self hosting
 
-Here are some ideas to get you started:
+Work with TypeScript, Java and Python - but love writing in Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![gopher](./res/dancing-gopher.gif)
+
+
+send me some electronic mail: aryan.ksh07@gmail.com
+
+_"Sometimes I feel I am living my life like a Just-in-Time compiler"_  
+
+## Employer ?!
+I have been expecting you
+[My resume](https://drive.google.com/file/d/1AlrAvMsgYvplI61PRZ0Hx4LPDfVod-Qp/view?usp=sharing)
+
+_"I think I should move towards an interrupt-based lifestyle and stop polling"_
