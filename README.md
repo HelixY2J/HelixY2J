@@ -12,7 +12,7 @@ send me some electronic mail: aryan.ksh07@gmail.com
 _"Sometimes I feel I am living my life like a Just-in-Time compiler"_  
 
 ## Employer ?!
-I have been expecting you
+I have been expecting you -
 [My resume](https://drive.google.com/file/d/1AlrAvMsgYvplI61PRZ0Hx4LPDfVod-Qp/view?usp=sharing)
 
 _"I think I should move towards an interrupt-based lifestyle and stop polling"_
