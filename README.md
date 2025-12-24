@@ -2,7 +2,7 @@
 
 Curious about backend development, security, reverse engineering and self hosting
 
-Work with TypeScript, Java and Python - but love writing in Go
+Work with TypeScript, Python - but love writing in Go
 
 ![gopher](./res/dancing-gopher.gif)
 
@@ -13,6 +13,6 @@ _"Sometimes I feel I am living my life like a Just-in-Time compiler"_
 
 ## Employer ?!
 I have been expecting you -
-[My resume](https://drive.google.com/file/d/1AlrAvMsgYvplI61PRZ0Hx4LPDfVod-Qp/view?usp=sharing)
+[My resume](https://drive.google.com/file/d/137ZDvqPOPcb40z_tZLrqGGZT1-JzMjz-/view?usp=sharing)
 
 _"I think I should move towards an interrupt-based lifestyle and stop polling"_
