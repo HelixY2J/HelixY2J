@@ -1,8 +1,8 @@
-## I don't build houses, but I love being an architect
+## About me
 
-Curious about backend development, security, reverse engineering and self hosting
+Curious about backend development, reverse engineering and self hosting
 
-Work with TypeScript, Python - but love writing in Go
+Work with TypeScript, Python but love writing in Go
 
 ![gopher](./res/dancing-gopher.gif)
 
